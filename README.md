@@ -3,7 +3,7 @@
 A clean and modern **Flutter movie application** built as part of a **Mobile Development assignment**. The app allows users to explore movies, search by name, manage favourites and watchlists, and view detailed movie information using data from **TMDB API**.
 
 ---
-Download link: [https://drive.google.com/file/d/11L0-sR3eLbxP2iQYEkvKfkutV1_igut4/view?usp=sharing](https://drive.google.com/file/d/11L0-sR3eLbxP2iQYEkvKfkutV1_igut4/view?usp=sharing)
+Download App: [https://drive.google.com/file/d/11L0-sR3eLbxP2iQYEkvKfkutV1_igut4/view?usp=sharing](https://drive.google.com/file/d/11L0-sR3eLbxP2iQYEkvKfkutV1_igut4/view?usp=sharing)
 
 ---
 Figma: [https://www.figma.com/design/xjRydpaJmvBXify7Bv5hVH/Untitled?node-id=0-1&t=BrPzxMjabI8kwkcF-1](https://www.figma.com/design/xjRydpaJmvBXify7Bv5hVH/Untitled?node-id=0-1&t=BrPzxMjabI8kwkcF-1)
@@ -153,6 +153,7 @@ This project is created for **educational purposes** as part of a mobile develop
 ### 👨‍💻 Author
 
 **Himanshu Ranjan**
+
 
 
 
