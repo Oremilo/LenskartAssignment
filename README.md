@@ -1,6 +1,8 @@
 # 🎬 Movie App (Flutter)
 
 A clean and modern **Flutter movie application** built as part of a **Mobile Development assignment**. The app allows users to explore movies, search by name, manage favourites and watchlists, and view detailed movie information using data from **TMDB API**.
+Download link: [https://drive.google.com/file/d/11L0-sR3eLbxP2iQYEkvKfkutV1_igut4/view?usp=sharing](https://drive.google.com/file/d/11L0-sR3eLbxP2iQYEkvKfkutV1_igut4/view?usp=sharing)
+
 
 ---
 
@@ -148,3 +150,4 @@ This project is created for **educational purposes** as part of a mobile develop
 ### 👨‍💻 Author
 
 **Himanshu Ranjan**
+
